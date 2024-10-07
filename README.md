@@ -1,4 +1,4 @@
-This project was with Create React App and developed using javascript  with server-side rendering (SSR) capabilities.
+This project was with Create React App and developed using CSS and Javascript with server-side rendering (SSR) capabilities.
 
 Available Scripts
 In the project directory, you can run:
