@@ -1,4 +1,4 @@
-This project was bootstrapped with Create React App and developed using Next.js/Angular.js/Nuxt.js with server-side rendering (SSR) capabilities.
+This project was with Create React App and developed using javascript  with server-side rendering (SSR) capabilities.
 
 Available Scripts
 In the project directory, you can run:
